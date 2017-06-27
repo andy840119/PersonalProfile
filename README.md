@@ -1,3 +1,33 @@
-# My Awesome Book
+# 自我介紹
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+---
+
+姓名 : 黃柏瑋 \(Huang Bo-Wei\)
+
+性別 : 男								
+
+出生日期 : 84 年 1 月 19 日
+
+e-mail : andy840119@gmail.com
+
+學歷 : 
+
+|  | 學校名稱 |  |
+| :--- | :--- | :--- |
+| 國小 | 西松國小 |  |
+| 國中 | 西松國中 |  |
+| 高中 | 西松高中 |  |
+| 大學 | 台北國立教育大學 資訊科學系 |  |
+|  | 臺北科技大學 資訊工程系 |  |
+|  |  |  |
+
+
+
+
+
+
+
+興趣 : 看動畫，寫程式
+
+
+
