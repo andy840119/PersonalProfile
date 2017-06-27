@@ -6,25 +6,47 @@
 
 在osu\(音樂遊戲\)上面開發新的音樂遊戲模式
 
-目前因為要準備日文所以暫停開發
+四月目前因為要準備日文所以暫停開發
 
 七月後要找人一起繼續做，估計年底完成
 
-.	![](https://lh3.googleusercontent.com/8BijVTb5yMl8k2ZWDKSJMs-iL5VaZSi33vtiOwjyo7Dna2Pnt87uHc_HCQnMg8eDVRS6R12E5WqpnsJEoQadbFYJd-C-mmPrVmLNLvVEwIHDTPQYiyqoK7DFAvwbNhBb7v8m6oRr)Youtube 開發日誌 :
+.    ![](https://lh3.googleusercontent.com/8BijVTb5yMl8k2ZWDKSJMs-iL5VaZSi33vtiOwjyo7Dna2Pnt87uHc_HCQnMg8eDVRS6R12E5WqpnsJEoQadbFYJd-C-mmPrVmLNLvVEwIHDTPQYiyqoK7DFAvwbNhBb7v8m6oRr)Youtube 開發日誌 :
 
-https://www.youtube.com/playlist?list=PLpScIlrOtEIWkjZywNxpFcFxRotiHzMoX
+[https://www.youtube.com/playlist?list=PLpScIlrOtEIWkjZywNxpFcFxRotiHzMoX](https://www.youtube.com/playlist?list=PLpScIlrOtEIWkjZywNxpFcFxRotiHzMoX)
 
 .
 
-GitHub : 
+GitHub :
 
-https://github.com/osu-RP/osu-RP
+[https://github.com/osu-RP/osu-RP](https://github.com/osu-RP/osu-RP)
 
 ---
 
-#### \(6月\)琴譜搜尋引擎\(開發中
+#### \(6月\)琴譜搜尋引擎\(未完成
 
+這學期用寫了琴譜搜尋引擎
 
+用NAudio先把 .mid\(可以視為音樂檔，或是一種琴譜格式檔案\)讀取資料
+
+轉換成可以被搜尋的格式\(Document\)後
+
+透過lucene這個搜尋引擎去建立索引和搜尋出來
+
+.
+
+理想效果是只要彈出整首歌曲的任意幾個音符，就可以搜尋出對應的琴譜
+
+目前是打算用asp.net製作，但網頁技能不強所以整個ＧＧ了
+
+專案如果想到還是會把它完成（目前也沒找到有其他搜尋引擎在做這個的
+
+不過估計得拖到2018年後了
+
+.
+
+GitHub :
+
+https://github.com/andy840119/MidiSearchEngine
 
 .
 
@@ -32,7 +54,33 @@ https://github.com/osu-RP/osu-RP
 
 #### \(6月\)地圖記事本\(開發中
 
+.
 
+這學期的ios期末專案
+
+寫一個地圖記事本，可以在地圖上釘選一個地點然後寫一段話，放一張圖片
+
+例如對餐廳某道菜的評價\(避免幾個月後忘記又到覺得很雷的餐廳\)
+
+又或是某個景點的回憶
+
+使用個幾年後地圖上就會有一大堆點，有點像小狗尿尿到處留下足跡
+
+.
+
+畢業後打算用Xamarin重寫一份，當作SideProject
+
+最後變成幾個好友鳩團從北吃到南
+
+到處留下回憶的社交平台
+
+,
+
+GitHub :
+
+[https://github.com/MapMemo/MapMemo\_ios](https://github.com/MapMemo/MapMemo_ios)
+
+專案是從ios課堂上業師的專案改過來的，並不是全部自己完成
 
 .
 
