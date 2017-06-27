@@ -4,11 +4,47 @@
 
 #### \(4月\)光劍
 
+![](https://lh4.googleusercontent.com/FrHRGPr5cI1IAw6ozOEDTjGQzeGfTmJjcOZ0eiHdvfDxIPHE6iHq0MvjG_Y_--zI9TMT-Udg7ZEdkIQz1wQ6CyrFQfM1rmWRxbPcMt8FghevyQXAWxsiKSjhN9kj0ED_XBJII7xdhzF2Vocz)
+
+![](https://lh6.googleusercontent.com/5PFQmmtZEGVo7tUMm0SgA1uCKMBO4Ji74n0RVXt15OqbVHEbLoMy_162XGmLDdr5VxXijktE5f8-iVd4UV3LnmPw6UPQzrzfje8-HKBJEikk_H0HvZ0zO-RJ8kqvtLldC-TEE1N9WcDSYHLY)當初在製作光劍的時候，雖然並不是我第一個製做的電子玩具，但還是相當興奮。
+
+因為有社員突發奇想想做出可以切換顏色的光劍，加上當初實在無法決定要選用哪種顏色的LED，於是加入了彩色光劍的實驗行列。
+
+彩色光劍的製作方式主要是串聯很多共陰極的4Pin RGB LED，然後用開關區分別控製 紅色，綠色跟藍色，如果同時打開紅色跟藍色的開關，就會變成紫色。
+
+因為網路上找不到同樣製做可以切換光劍顏色的教學文章，很多不懂的地方都要靠自己去摸索。
+
+除此之外，由於需要比較好的焊接技巧和方法，彩色的光劍相當難做。
+
 .
 
 ---
 
-#### \(6月\)無用盒子
+\(5月\)
+
+![](https://lh4.googleusercontent.com/O2rBAztkmdZ3uieQzhtZs7CZURKKNdBVZ4y6Kzu735INhQeAySWsM7IZHRJ83EdEqgBza2d6t7JVpHUYoWZvjODOl0VnKmIpe_Mw2XU4Hfd3yqxIyycBafZHjG0ui7xZc9R_GqnIwHxgGRGg)
+
+在社團競賽方面，有參加過Maker Faire主辦的坦克大戰，得分的方式是把乒乓球丟入敵方的陣營，或是把坦克開到敵方的地區。
+
+
+
+參加的阿愣坦克是和一些大二大三的社員合力作出來，可以利用藍芽遙控。
+
+我負責的部份是研究直流馬達驅動的方式和車體一部份的程式碼。
+
+
+
+雖然說最後只贏了一場，但學到團隊合作和分工完成一項任務，對我來說也是很重要的經驗。
+
+---
+
+\(6月\)無用盒子
+
+![](https://lh3.googleusercontent.com/LGBdUjjG4TcWdb7zAcBmMEMbyOfUhlAm2oY0obfaz86NsVAkhU_DaclB_vuid_gC-cCGl3zSYJlqpcacQ91vMj0B7FojFZ2XCQk2VPo3SOmxA_JPAE6NX5Md4LENjdQdaSUwcIUkABFANXwh)Arduino方面，最近在網路上看到日本網友做了一個Useless Box，因為加上了臉部表情，看起來特別的生動，也很可愛。
+
+最近自己也做出了一個。不過雖然有教學影片，但作者沒有提供程式碼不說，成品也不是用Arduino來完成，大部分還是得靠自己到處蒐集相關資料。
+
+加上買來的16\*32矩陣顯示器只提供了8051的程式碼，所以只能參考說明書裡的電路圖，和網路上IC的DataSheet來完成。雖然說花了好長一段時間知道如何使用這塊矩陣顯示器，但做完之後還蠻有成就感的。
 
 .
 
