@@ -12,11 +12,9 @@
 
 ---
 
-臉書 : https://www.facebook.com/ODOaa
+臉書 : [https://www.facebook.com/ODOaa](https://www.facebook.com/ODOaa)
 
-GitHub : https://github.com/andy840119
+GitHub : [https://github.com/andy840119](https://github.com/andy840119)
 
 e-mail : andy840119@gmail.com
-
-
 
