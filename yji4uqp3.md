@@ -30,7 +30,7 @@
 
 .
 
-![](https://lh3.googleusercontent.com/8QQfGuNrLNdwcy8FEoBZr9VTbolFpjdT5fdGkoa4xji_J8-7bnJJC0mLplJgUAV9M5UFZXcYs9mN7ppOsAV1Co-rnHtujm42SYYzxAZWtZnTGSUd0jila_QUarMBo8Bg6T0xSuFo)
+![](https://raw.githubusercontent.com/andy840119/VisualStudioSnowEffect/master/VisualStudioSnowEffect/Effect001.gif)
 
 順帶一提，打字速度越快下的雪越多
 
