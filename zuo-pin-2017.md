@@ -52,9 +52,9 @@ GitHub :
 
 ,
 
-GitHub : 
+GitHub :
 
-https://github.com/MapMemo/MapMemo\_ios
+[https://github.com/MapMemo/MapMemo\_ios](https://github.com/MapMemo/MapMemo_ios)
 
 專案是從ios課堂上業師的專案改過來的，並不是全部自己完成
 

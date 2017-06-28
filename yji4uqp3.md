@@ -6,6 +6,16 @@
 
 使用影像搜尋漫畫
 
+用到EmguCV
+
+可以透過攝影機拍到的東西抓取特徵點，然後從資料庫把掃描好建檔的參數做比對
+
+.
+
+目前是透過一個一個比對的方式，效率還不高
+
+以後如果有時間再去修正吧
+
 .
 
 ---
@@ -26,9 +36,9 @@
 
 .
 
-Github連結 : 
+Github連結 :
 
-https://github.com/andy840119/VisualStudioSnowEffect
+[https://github.com/andy840119/VisualStudioSnowEffect](https://github.com/andy840119/VisualStudioSnowEffect)
 
 .
 
