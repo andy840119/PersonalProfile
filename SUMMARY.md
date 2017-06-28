@@ -1,7 +1,7 @@
 # Summary
 
 * [自我介紹](README.md)
-* [個人經歷](ge-ren-jing-li.md)
+* [個人經歷](experience.md)
 * [作品\_2017](work2017.md)
 * [作品\_2016](work2016.md)
 * [作品\_2015](work2015.md)
