@@ -4,7 +4,7 @@
 
 #### \(6月\) ＯＯＰ期末專案 小雞與獵人遊戲仿製
 
-![](/assets/import.png)
+![](assets/work2015/OOP_course/import.png)
 
 要仿製的遊戲
 
