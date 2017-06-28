@@ -2,6 +2,28 @@
 
 ---
 
+#### \(1月\)Android 車機程式客戶端
+
+&lt;圖片1&gt;
+
+&lt;圖片2&gt;
+
+之前在宇楊實習的時候在那邊幫忙寫了簡單的客戶端程式
+
+Android 平板要連接一個RS232裝置 （我只有負責到這邊
+
+RS232裝置則是連接到一個可以上網的小盒子
+
+如果之後有RS232有收到小盒子傳送過來的通知訊息
+
+就要顯示到畫面上，讓車上的人員可以做點和回報
+
+點選好的結果除了存在本地端外，也會包成json格式回傳回去
+
+.
+
+---
+
 #### \(6月\)ComicSearcher
 
 使用影像搜尋漫畫
@@ -18,9 +40,9 @@
 
 .
 
-GitHub : 
+GitHub :
 
-https://github.com/andy840119/ComicSearcher/
+[https://github.com/andy840119/ComicSearcher/](https://github.com/andy840119/ComicSearcher/)
 
 .
 
