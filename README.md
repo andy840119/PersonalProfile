@@ -2,6 +2,8 @@
 
 ---
 
+<img src="/assets/README/102590450.jpg" width="30%" height="30%">
+
 姓名 : 黃柏瑋 \(Huang Bo-Wei\)
 
 性別 : 男
@@ -16,7 +18,7 @@
 
 GitHub : [https://github.com/andy840119](https://github.com/andy840119)
 
-部落格 : http://blog.udn.com/andy840119/article
+部落格 : [http://blog.udn.com/andy840119/article](http://blog.udn.com/andy840119/article)
 
 e-mail : andy840119@gmail.com
 
