@@ -16,5 +16,7 @@
 
 GitHub : [https://github.com/andy840119](https://github.com/andy840119)
 
+部落格 : http://blog.udn.com/andy840119/article
+
 e-mail : andy840119@gmail.com
 

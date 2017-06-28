@@ -36,9 +36,9 @@ GitHub :
 
 理想效果是只要彈出整首歌曲的任意幾個音符，就可以搜尋出對應的琴譜
 
-目前是打算用asp.net製作，但網頁技能不強所以整個ＧＧ了
+目前是打算用asp.net製作，但網頁技能不強所以先暫時轉回windows form
 
-專案如果想到還是會把它完成（目前也沒找到有其他搜尋引擎在做這個的
+專案如果想到還是會把它完成（目前也沒找到有其他搜尋引擎平台在做這個
 
 不過估計得拖到2018年後了
 
@@ -46,7 +46,7 @@ GitHub :
 
 GitHub :
 
-https://github.com/andy840119/MidiSearchEngine
+[https://github.com/andy840119/MidiSearchEngine](https://github.com/andy840119/MidiSearchEngine)
 
 .
 
@@ -68,7 +68,9 @@ https://github.com/andy840119/MidiSearchEngine
 
 .
 
-畢業後打算用Xamarin重寫一份，當作SideProject
+畢業後打算用Xamarin重寫一份\(也是估計得排到2018年後了\)
+
+當作SideProject
 
 最後變成幾個好友鳩團從北吃到南
 
