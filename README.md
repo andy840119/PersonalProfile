@@ -2,8 +2,6 @@
 
 ---
 
-
-
 姓名 : 黃柏瑋 \(Huang Bo-Wei\)
 
 性別 : 男
@@ -13,8 +11,6 @@
 興趣 : 看動畫，寫程式
 
 ---
-
-臉書 : [https://www.facebook.com/ODOaa](https://www.facebook.com/ODOaa)
 
 GitHub : [https://github.com/andy840119](https://github.com/andy840119)
 
